@@ -14,17 +14,14 @@ namespace PaymentContext.Domain.ValueObjects
 
             AddNotifications(new Contract<Notification>()
                 .Requires()
-                .IsTrue(ValidateCPFOrCNPJ(), "Document.Number", "Documento inválido")
+                .IsTrue(ValidateCPF(), "Document.Number", "Documento inválido")
+                .IsTrue(ValidateCNPJ(), "Document.Number", "Documento inválido")
             );
         }
         public string Number { get; private set; }
         public DocumentTypeEnum Type { get; private set; }
-
-
-        private bool ValidateCPFOrCNPJ()
-        {
-
-           private bool ValidateCPF()
+      
+        private bool ValidateCPF()
         {
             var cpf = Number.Replace("/[^0-9]*/g", "");
             
@@ -98,11 +95,5 @@ namespace PaymentContext.Domain.ValueObjects
         
 
     }
-        }
-
-        
-
-    }
-
 
 }

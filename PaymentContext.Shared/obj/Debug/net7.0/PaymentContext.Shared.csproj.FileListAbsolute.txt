@@ -10,3 +10,16 @@ D:\00_GITHUB\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\refint\Paymen
 D:\00_GITHUB\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.pdb
 D:\00_GITHUB\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\ref\PaymentContext.Shared.dll
 D:\00_GITHUB\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.csproj.AssemblyReference.cache
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\bin\Debug\net7.0\PaymentContext.Shared.deps.json
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\bin\Debug\net7.0\PaymentContext.Shared.dll
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\bin\Debug\net7.0\PaymentContext.Shared.pdb
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.csproj.AssemblyReference.cache
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.AssemblyInfo.cs
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.sourcelink.json
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.dll
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\refint\PaymentContext.Shared.dll
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.pdb
+D:\00_GITHUB\PaymentContext\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\ref\PaymentContext.Shared.dll
