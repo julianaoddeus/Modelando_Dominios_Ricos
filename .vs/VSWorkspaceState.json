@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PaymentContext.Domain",
+    "\\PaymentContext.Domain\\ValueObjects",
+    "\\PaymentContext.Tests"
   ],
-  "SelectedNode": "\\PaymentContext.sln",
+  "SelectedNode": "\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
   "PreviewInSolutionExplorer": false
 }
