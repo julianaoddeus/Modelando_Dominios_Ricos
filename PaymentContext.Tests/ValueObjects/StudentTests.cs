@@ -1,5 +1,6 @@
 using PaymentContext.Domain.Entities;
 using PaymentContext.Domain.ValueObjects;
+using PaymentContext.Shared.Enums;
 
 namespace PaymentContext.Tests.ValueObjects
 {    
@@ -16,14 +17,14 @@ namespace PaymentContext.Tests.ValueObjects
         public StudentTests()
         {
             _name = new Name("Bruce", "Waynne");
-            _document = new Document("35274547800", Domain.Enums.DocumentTypeEnum.CPF);
+            _document = new Document("829.049.880-25", DocumentTypeEnum.CPF);
             _address = new Address("Rua 1", "345", "Nova","Sao Manuel", "SP", "BR","13466000");
             _email = new Email("bw@example.com");
             _student = new Student(_name, _document,  _email);
             _subscription = new Subscription(null);           
         }
 
-        [TestMethod]
+         [TestMethod]
         public void ShouldReturnErrorWhenHadActiveSubsciption()
         {         
              var payment = new PayPalPayment("12345678", DateTime.Now, DateTime.Now.AddDays(5), 10,10, "WAYNE CORP", _document, _address, _email);

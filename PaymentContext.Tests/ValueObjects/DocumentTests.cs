@@ -1,6 +1,6 @@
 
-using PaymentContext.Domain.Enums;
 using PaymentContext.Domain.ValueObjects;
+using PaymentContext.Shared.Enums;
 
 namespace PaymentContext.Tests.ValueObjects
 {

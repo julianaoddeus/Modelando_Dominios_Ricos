@@ -1,8 +1,8 @@
 using Flunt.Notifications;
 using Flunt.Validations;
-using PaymentContext.Domain.Enums;
 using PaymentContext.Shared.ValueObjects;
 using System.Text.RegularExpressions;
+using PaymentContext.Shared.Enums;
 
 namespace PaymentContext.Domain.ValueObjects
 {
@@ -98,7 +98,6 @@ namespace PaymentContext.Domain.ValueObjects
 
             return false;
         }
-
     }
 
 }
